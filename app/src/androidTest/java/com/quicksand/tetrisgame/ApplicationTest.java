@@ -1,4 +1,4 @@
-package com.quicksand.xiqun.tetrisgame;
+package com.quicksand.tetrisgame;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
