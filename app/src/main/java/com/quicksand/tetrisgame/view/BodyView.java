@@ -1,17 +1,15 @@
-package com.quicksand.xiqun.tetrisgame.view;
+package com.quicksand.tetrisgame.view;
 
 import android.content.Context;
-import android.os.Handler.Callback;
-import android.os.Message;
 
-import com.quicksand.xiqun.tetrisgame.bean.BodyItem;
-import com.quicksand.xiqun.tetrisgame.bean.GameBody;
-import com.quicksand.xiqun.tetrisgame.bean.Point;
+import com.quicksand.tetrisgame.bean.BodyItem;
+import com.quicksand.tetrisgame.bean.GameBody;
+import com.quicksand.tetrisgame.bean.Point;
 
 import java.util.List;
 
 /**
- * Created by xiqun on 16/4/5.
+ * Created by shamaker on 16/4/5.
  */
 public class BodyView extends BodyItem{
 

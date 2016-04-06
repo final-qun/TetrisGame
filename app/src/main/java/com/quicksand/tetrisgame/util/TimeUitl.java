@@ -1,4 +1,4 @@
-package com.quicksand.xiqun.tetrisgame.util;
+package com.quicksand.tetrisgame.util;
 
 /**
  * Created by xiqun on 16/3/29.

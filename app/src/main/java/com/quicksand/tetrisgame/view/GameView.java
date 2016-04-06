@@ -1,20 +1,20 @@
-package com.quicksand.xiqun.tetrisgame.view;
+package com.quicksand.tetrisgame.view;
 
 import android.content.Context;
 import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
 
-import com.quicksand.xiqun.tetrisgame.bean.GameBody;
-import com.quicksand.xiqun.tetrisgame.bean.GameItem;
-import com.quicksand.xiqun.tetrisgame.bean.Point;
-import com.quicksand.xiqun.tetrisgame.state.Style;
+import com.quicksand.tetrisgame.bean.GameBody;
+import com.quicksand.tetrisgame.bean.GameItem;
+import com.quicksand.tetrisgame.bean.Point;
+import com.quicksand.tetrisgame.state.Style;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * onDrawd by xiqun on 16/3/29.
+ * onDrawd by shamaker on 16/3/29.
  */
 public class GameView extends GameItem {
     private int style;

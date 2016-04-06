@@ -1,13 +1,13 @@
-package com.quicksand.xiqun.tetrisgame.bean;
+package com.quicksand.tetrisgame.bean;
 
-import com.quicksand.xiqun.tetrisgame.state.Style;
+import com.quicksand.tetrisgame.state.Style;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Observable;
 
 /**
- * Created by xiqun on 16/3/31.
+ * Created by shamaker on 16/3/31.
  */
 public class GameBody extends Observable{
     private Point startPoint;

@@ -1,4 +1,4 @@
-package com.quicksand.xiqun.tetrisgame;
+package com.quicksand.tetrisgame;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -14,11 +14,12 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.quicksand.xiqun.tetrisgame.bean.GameBody;
-import com.quicksand.xiqun.tetrisgame.state.Style;
-import com.quicksand.xiqun.tetrisgame.util.TimeUitl;
-import com.quicksand.xiqun.tetrisgame.view.BodyView;
-import com.quicksand.xiqun.tetrisgame.view.GameView;
+import com.quicksand.xiqun.tetrisgame.R;
+import com.quicksand.tetrisgame.bean.GameBody;
+import com.quicksand.tetrisgame.state.Style;
+import com.quicksand.tetrisgame.util.TimeUitl;
+import com.quicksand.tetrisgame.view.BodyView;
+import com.quicksand.tetrisgame.view.GameView;
 
 
 public class MainActivity extends Activity implements View.OnClickListener,View.OnTouchListener {

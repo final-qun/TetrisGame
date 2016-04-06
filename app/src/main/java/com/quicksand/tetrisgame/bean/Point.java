@@ -1,10 +1,10 @@
-package com.quicksand.xiqun.tetrisgame.bean;
+package com.quicksand.tetrisgame.bean;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by xiqun on 16/3/30.
+ * Created by shamaker on 16/3/30.
  */
 public class Point{
     public int x;

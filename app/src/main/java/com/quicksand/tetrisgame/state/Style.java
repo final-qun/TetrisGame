@@ -1,7 +1,7 @@
-package com.quicksand.xiqun.tetrisgame.state;
+package com.quicksand.tetrisgame.state;
 
 /**
- * Created by xiqun on 16/3/30.
+ * Created by shamaker on 16/3/30.
  */
 public class Style {
     public static final int DEFAULT =0;
